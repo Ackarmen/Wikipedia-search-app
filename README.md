@@ -1,1 +1,1 @@
-![Maquette](https://github.com/Ackarmen/Wikipedia-search-app/assets/136793418/92b5bd3e-affe-4b94-a882-ec58f7dcafe2)
+![Maquette](https://github.com/Ackarmen/Wikipedia-search-app/assets/136793418/3c2a6e3f-0cc7-4de8-bbbb-e0146b58348c)
